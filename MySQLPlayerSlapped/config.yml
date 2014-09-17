@@ -1,0 +1,14 @@
+plugin:
+  use: false
+  database: <Enter data base>
+  username: user
+  password: word
+  check: 3000
+
+sync:
+  health: true
+  food: true
+  exp: true
+  inventory: true
+  enderChest: true
+  potion: true
